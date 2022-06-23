@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/HTU-Instagram-page/static/css/main.0eba7482.css",
+    "main.js": "/HTU-Instagram-page/static/js/main.c5cc5286.js",
+    "static/js/787.50756e5a.chunk.js": "/HTU-Instagram-page/static/js/787.50756e5a.chunk.js",
+    "static/media/alogo.png": "/HTU-Instagram-page/static/media/alogo.4d40e6968b0fc98288dc.png",
+    "static/media/15.jpg": "/HTU-Instagram-page/static/media/15.7a9ae741478570d40152.jpg",
+    "static/media/2.jpg": "/HTU-Instagram-page/static/media/2.0e190689fbc33b8fc872.jpg",
+    "static/media/13.jpg": "/HTU-Instagram-page/static/media/13.753b13d5954c8a66b5a0.jpg",
+    "static/media/14.jpg": "/HTU-Instagram-page/static/media/14.f5481f3f24a485ee697d.jpg",
+    "static/media/17.jpg": "/HTU-Instagram-page/static/media/17.55b08119de5996e2f0f4.jpg",
+    "static/media/6.jpg": "/HTU-Instagram-page/static/media/6.358a653cf74d3576f1f4.jpg",
+    "static/media/9.jpg": "/HTU-Instagram-page/static/media/9.bfbcff842288e94ffd72.jpg",
+    "static/media/7.jpg": "/HTU-Instagram-page/static/media/7.a76f3b2faeb649e989d7.jpg",
+    "static/media/1.jpg": "/HTU-Instagram-page/static/media/1.cb7a91416fa353a9f79f.jpg",
+    "static/media/16.jpg": "/HTU-Instagram-page/static/media/16.bc7cf4fefc191953e331.jpg",
+    "static/media/8.jpg": "/HTU-Instagram-page/static/media/8.6b64d730e1f3d03dfb42.jpg",
+    "static/media/3.jpg": "/HTU-Instagram-page/static/media/3.b8bf3b1285cb458da614.jpg",
+    "static/media/10.jpg": "/HTU-Instagram-page/static/media/10.fb2144071b416197d6dd.jpg",
+    "static/media/11.jpg": "/HTU-Instagram-page/static/media/11.5bd4f4fc200ded3b5455.jpg",
+    "static/media/4.jpg": "/HTU-Instagram-page/static/media/4.ba9b9f637fe258d7073b.jpg",
+    "static/media/5.jpg": "/HTU-Instagram-page/static/media/5.3fd31af70000fb6452e5.jpg",
+    "static/media/12.jpg": "/HTU-Instagram-page/static/media/12.9ba449691f910e2a8189.jpg",
+    "index.html": "/HTU-Instagram-page/index.html",
+    "main.0eba7482.css.map": "/HTU-Instagram-page/static/css/main.0eba7482.css.map",
+    "main.c5cc5286.js.map": "/HTU-Instagram-page/static/js/main.c5cc5286.js.map",
+    "787.50756e5a.chunk.js.map": "/HTU-Instagram-page/static/js/787.50756e5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eba7482.css",
+    "static/js/main.c5cc5286.js"
+  ]
+}
