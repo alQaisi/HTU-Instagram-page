@@ -53,15 +53,17 @@ export const LightBoxImage=styled.div`
 `;
 export const LightBoxContainer=styled.div`
     transition: opacity .45s cubic-bezier(0.455, 0.03, 0.515, 0.955);
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow-y:auto;
     background-color: rgba(0,0,0,.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0,.6);
+    opacity: 0;
+    overflow-y: scroll;
     ${({currentindex})=>currentindex==-1?`opacity:0;z-index:-1;`:`opacity:1;z-index:10`}
 `;

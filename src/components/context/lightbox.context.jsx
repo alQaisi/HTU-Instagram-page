@@ -34,9 +34,6 @@ export function LightBoxProvider({children}){
     const [currentImage,setImage]=useState(-1);
     const [ImagesData,setImages]=useState([]);
     useEffect(()=>setImages(imagesData),[]);
-    useEffect(()=>{
-        currentIndex==-1?document.body.style.overflowY='auto':document.body.style.overflowY='hidden';
-    },[currentIndex])
     const value={currentIndex,currentImage,ImageBoxClickHandler,setImage,ImagesData,closeLightBox,nextHandler,previousHandler}
     return(
         <LightBoxContext.Provider value={value}>{children}</LightBoxContext.Provider>
