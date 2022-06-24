@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HTU-Instagram-page/static/css/main.0eba7482.css",
-    "main.js": "/HTU-Instagram-page/static/js/main.c5cc5286.js",
+    "main.js": "/HTU-Instagram-page/static/js/main.dc481bf4.js",
     "static/js/787.50756e5a.chunk.js": "/HTU-Instagram-page/static/js/787.50756e5a.chunk.js",
     "static/media/alogo.png": "/HTU-Instagram-page/static/media/alogo.4d40e6968b0fc98288dc.png",
     "static/media/15.jpg": "/HTU-Instagram-page/static/media/15.7a9ae741478570d40152.jpg",
@@ -23,11 +23,11 @@
     "static/media/12.jpg": "/HTU-Instagram-page/static/media/12.9ba449691f910e2a8189.jpg",
     "index.html": "/HTU-Instagram-page/index.html",
     "main.0eba7482.css.map": "/HTU-Instagram-page/static/css/main.0eba7482.css.map",
-    "main.c5cc5286.js.map": "/HTU-Instagram-page/static/js/main.c5cc5286.js.map",
+    "main.dc481bf4.js.map": "/HTU-Instagram-page/static/js/main.dc481bf4.js.map",
     "787.50756e5a.chunk.js.map": "/HTU-Instagram-page/static/js/787.50756e5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0eba7482.css",
-    "static/js/main.c5cc5286.js"
+    "static/js/main.dc481bf4.js"
   ]
 }
