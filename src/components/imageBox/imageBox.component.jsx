@@ -1,4 +1,4 @@
-import {ImageContainer,MultipleImagesIcon} from './imageBox.styles';
+import {ImageContainer,MultipleImagesIcon,ImageBackground} from './imageBox.styles';
 import { useContext } from 'react';
 import {LightBoxContext} from '../context/lightbox.context';
 import {AiFillHeart} from 'react-icons/ai';
@@ -13,7 +13,8 @@ const Icon=function(){
 function ImageBox({images,boxId}){
     const {ImageBoxClickHandler}=useContext(LightBoxContext);
     return(
-        <ImageContainer id={boxId} images={images} onClick={ImageBoxClickHandler}>
+        <ImageContainer id={boxId}  onClick={ImageBoxClickHandler}>
+            <ImageBackground images={images}/>
             {
                 images.length>1?
                 <Icon/>

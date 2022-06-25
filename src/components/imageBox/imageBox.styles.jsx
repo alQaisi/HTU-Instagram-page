@@ -12,14 +12,12 @@ export const MultipleImagesIcon=styled.svg`
 `;
 
 export const ImageContainer=styled.div`
+    overflow: hidden;
     border-radius:3px;
     position: relative;
     width: 300px;
     height: 300px;
     width :100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     cursor: pointer;
     :hover{
         .icons{
@@ -43,5 +41,15 @@ export const ImageContainer=styled.div`
             margin-right: 30px;
         }
     }
-    ${({images})=>`background-image:url(${require(`../../assets${images[0]}`)})`}
 `;
+
+export const ImageBackground=styled.div`
+    position: absolute;
+    top:0;
+    bottom: 0;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    ${({images})=>`background-image:url(${require(`../../assets${images[0]}`)})`}
+`
